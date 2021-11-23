@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Mulish:wght@300&display=swap');
+
+body{
+    font-family:'Mulish',sans-serif;
+}
+
+/* START NAV BAR */
+.navbar .nav-link{
+    font-size: 14px;
+    text-transform: uppercase;
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+}
+
+.navbar .nav-link.active{
+    border-left: 3px solid #444;
+}
+/* END NAV BAR */
